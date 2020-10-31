@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticaActivities</string>
+    <string name="form_name">Nombre completo</string>
+    <string name="form_birth">Fecha de nacimiento</string>
+    <string name="form_email">Email</string>
+    <string name="form_tel">Teléfono</string>
+    <string name="form_tel_abrev">Tel.</string>
+    <string name="form_info">Descripción contacto</string>
+    <string name="form_description">Descripción</string>
+    <string name="form_next">Siguiente</string>
+    <string name="form_edit">Editar Datos</string>
+    <string name="form_error">Debe llenar este campo</string>
+    <string name="var_name">Nombre</string>
+    <string name="var_birth">Fecha</string>
+    <string name="var_tel">Telefono</string>
+    <string name="var_email">Email</string>
+    <string name="var_descr">Descripcion</string>
+
+</resources>
